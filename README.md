@@ -20,11 +20,15 @@ On GitHub, you'll find some of my open-source projects, snippets, and experiment
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
   <img width="12" />
@@ -40,6 +44,10 @@ On GitHub, you'll find some of my open-source projects, snippets, and experiment
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" height="40" alt="socket.io logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitMQ logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -51,6 +59,8 @@ On GitHub, you'll find some of my open-source projects, snippets, and experiment
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panahi-projects&theme=apprentice)   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panahi-projects&theme=apprentice&utcOffset=8)
 
 <img src="https://komarev.com/ghpvc/?username=panahi-projects" alt="panahi-projects"/>
+
+Check [Icons Resources](https://devicon.dev/).
 
 ##
 
