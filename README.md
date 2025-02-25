@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### 👩‍💻  About Me 
-I am Saeed Panahi, a seasoned software engineer with a passion for building intuitive and user-friendly interfaces. Currently, I'm honing my skills as a front-end developer at Tecnotree, where I get to work with cutting-edge technologies like JavaScript, Vue, React, CSS, Jest, and more. With over 5 years of experience under my belt, I've had the opportunity to collaborate with various teams, solve complex problems, and deliver high-quality solutions that meet clients' needs.
+I am Saeed Panahi, a seasoned software engineer with a passion for building intuitive and user-friendly interfaces. Currently, I'm honing my skills as a front-end developer at Tecnotree, where I get to work with cutting-edge technologies like JavaScript, Vue, React, CSS, Jest, and more. With over 6 years of experience under my belt, I've had the opportunity to collaborate with various teams, solve complex problems, and deliver high-quality solutions that meet clients' needs.
 
 When I'm not coding, you can find me exploring new techs and tools to stay ahead of the curve. I'm constantly seeking ways to improve my craft and expand my skillset, whether it's attending webinars, participating in online communities, or experimenting with personal projects.
 
