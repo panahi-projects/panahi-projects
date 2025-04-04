@@ -48,6 +48,8 @@ On GitHub, you'll find some of my open-source projects, snippets, and experiment
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitMQ logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM logo"  />
+  <img width="12" />
 </div>
 
 ###
