@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### 👩‍💻  About Me 
-I am Saeed Panahi, a seasoned software engineer with a passion for building intuitive and user-friendly interfaces. Currently, I'm honing my skills as a front-end developer at Tecnotree, where I get to work with cutting-edge technologies like JavaScript, Vue, React, CSS, Jest, and more. With over 6 years of experience under my belt, I've had the opportunity to collaborate with various teams, solve complex problems, and deliver high-quality solutions that meet clients' needs.
+I am Saeed Panahi, a seasoned software engineer with a passion for building intuitive and user-friendly interfaces. Currently, I'm honing my skills as a front-end developer at Balinex, where I get to work with cutting-edge technologies like JavaScript, Next.js, Typescript, React, CSS, Jest, and more. With over 7 years of experience under my belt, I've had the opportunity to collaborate with various teams, solve complex problems, and deliver high-quality solutions that meet clients' needs.
 
 When I'm not coding, you can find me exploring new techs and tools to stay ahead of the curve. I'm constantly seeking ways to improve my craft and expand my skillset, whether it's attending webinars, participating in online communities, or experimenting with personal projects.
 
@@ -77,6 +77,12 @@ On GitHub, you'll find some of my open-source projects, snippets, and experiment
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="MongoDB logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" alt="Redis logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" height="40" alt="NGrok logo"/>
   <img width="12" />
 </div>
 
