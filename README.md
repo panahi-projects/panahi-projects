@@ -91,6 +91,18 @@ On GitHub, you'll find some of my open-source projects, snippets, and experiment
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=panahi-projects&theme=github-dark)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panahi-projects&theme=github_dark" width="100%">
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panahi-projects&theme=github_dark" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=panahi-projects&theme=github_dark" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=panahi-projects&theme=github_dark" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panahi-projects&theme=github_dark&utcOffset=1" width="49%">
+</p>
+
 #### ✉️ How can you contact me?
 
 ###
