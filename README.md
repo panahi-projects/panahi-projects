@@ -82,23 +82,14 @@ On GitHub, you'll find some of my open-source projects, snippets, and experiment
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" height="40" alt="NGrok logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" height="40" title="NGrok" alt="NGrok logo"/>
   <img width="12" />
 </div>
+<!-- Icon resources: (https://devicon.dev/) -->
 
-###
+### 📊 GitHub Summary
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panahi-projects&theme=apprentice)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panahi-projects&theme=apprentice)   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=panahi-projects&theme=apprentice)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panahi-projects&theme=apprentice)   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panahi-projects&theme=apprentice&utcOffset=8)
-
-<img src="https://komarev.com/ghpvc/?username=panahi-projects" alt="panahi-projects"/>
-
-Check [Icons Resources](https://devicon.dev/).
-
-##
+![GitHub Streak](https://streak-stats.demolab.com?user=panahi-projects&theme=github-dark)
 
 #### ✉️ How can you contact me?
 
