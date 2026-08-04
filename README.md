@@ -91,17 +91,11 @@ On GitHub, you'll find some of my open-source projects, snippets, and experiment
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=panahi-projects&theme=github-dark)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panahi-projects&theme=github_dark" width="100%">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=panahi-projects&show_icons=true&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panahi-projects&theme=github_dark" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=panahi-projects&theme=github_dark" width="49%">
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panahi-projects&layout=compact&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=panahi-projects&theme=github_dark" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panahi-projects&theme=github_dark&utcOffset=1" width="49%">
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=panahi-projects&theme=darkhub)
 
 #### ✉️ How can you contact me?
 
