@@ -89,6 +89,14 @@ On GitHub, you'll find some of my open-source projects, snippets, and experiment
 
 ### 📊 GitHub Summary
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panahi-projects&theme=apprentice)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panahi-projects&theme=apprentice)   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=panahi-projects&theme=apprentice)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panahi-projects&theme=apprentice)   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=panahi-projects&theme=apprentice&utcOffset=8)
+
+<img src="https://komarev.com/ghpvc/?username=panahi-projects" alt="panahi-projects"/>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=panahi-projects&theme=github-dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=panahi-projects&theme=github-dark)
