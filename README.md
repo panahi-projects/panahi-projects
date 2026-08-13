@@ -9,6 +9,16 @@ On GitHub, you'll find some of my open-source projects, snippets, and experiment
 
 ###
 
+<div align="center">
+  <p>🫰 ممنون میشم حالا که تا اینجا اومدی، پروژه هایی که پین شدن رو بهشون استار بدی </p>
+</div>
+
+<div align="center">
+  <p>
+    I would be thankful if you push the star button of each of the pinned repositories ⭐
+  </p>
+</div>
+
 ##
 
 #### 🛠 Language and tools
