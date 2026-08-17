@@ -10,12 +10,12 @@ On GitHub, you'll find some of my open-source projects, snippets, and experiment
 ###
 
 <div align="center">
-  <p>🫰 ممنون میشم حالا که تا اینجا اومدی، پروژه هایی که پین شدن رو بهشون استار بدی </p>
+  <p>🫰 ممنون میشم پروژه هایی که پین شدن رو بهشون ببینی و بررسیشون کنی و اگر فکر کردی که خوبن بهشون استار بدی </p>
 </div>
 
 <div align="center">
   <p>
-    I would be thankful if you push the star button of each of the pinned repositories ⭐
+    I would be thankful if you review my pinned projects and if you liked them push the star button of each of the pinned repositories ⭐
   </p>
 </div>
 
