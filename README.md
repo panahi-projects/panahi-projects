@@ -10,7 +10,7 @@ On GitHub, you'll find some of my open-source projects, snippets, and experiment
 ###
 
 <div align="center">
-  <p>🫰 ممنون میشم پروژه هایی که پین شدن رو بهشون ببینی و بررسیشون کنی و اگر فکر کردی که خوبن بهشون استار بدی </p>
+  <p>🫰 ممنون میشم پروژه هایی که پین شدن رو ببینی و بررسیشون کنی و اگر فکر کردی که خوبن بهشون استار بدی </p>
 </div>
 
 <div align="center">
